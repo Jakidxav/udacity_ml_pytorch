@@ -1,1 +1,1 @@
-# udacity_ml_pytorch
+This repository contains some machine learning projects for the [Intro to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229). These projects were completed using Python, PyTorch, and Scikit-Learn and cover topics like neural networks for image classification, Principal Component Analysis for dimensionality reduction, and K-Means clustering.
